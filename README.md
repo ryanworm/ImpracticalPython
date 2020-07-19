@@ -1,0 +1,2 @@
+# ImpracticalPython
+Pointless fun projects. 
